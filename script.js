@@ -28,8 +28,8 @@
 
     // Configuración del tiempo (modificable)
     const rotationTime = {
-        seconds: 20,
-        minutes: 0,
+        seconds: 0,
+        minutes: 5,
         hours: 0
     };
 
@@ -190,3 +190,4 @@
     startTimer();
 
 })();
+
