@@ -15,7 +15,8 @@
         "https://app.powerbi.com/groups/1c63bf60-4443-4c91-91e1-4b56098b309d/reports/f86773a1-278c-4bba-8b91-6f95b806f073/ReportSection1554dd7e053a66979e0b?experience=power-bi&chromeless=true",
         "https://app.powerbi.com/groups/1c63bf60-4443-4c91-91e1-4b56098b309d/reports/f86773a1-278c-4bba-8b91-6f95b806f073/ReportSection770011af8ecda9a8b3eb?experience=power-bi&chromeless=true",
         "https://app.powerbi.com/groups/1c63bf60-4443-4c91-91e1-4b56098b309d/reports/f86773a1-278c-4bba-8b91-6f95b806f073/ReportSectionf9fe292b4b0b2244a793?experience=power-bi&chromeless=true",
-        "https://app.powerbi.com/groups/1c63bf60-4443-4c91-91e1-4b56098b309d/reports/f86773a1-278c-4bba-8b91-6f95b806f073/ReportSection7b34db0f300b875c8c1b?experience=power-bi&chromeless=true"
+        "https://app.powerbi.com/groups/1c63bf60-4443-4c91-91e1-4b56098b309d/reports/f86773a1-278c-4bba-8b91-6f95b806f073/ReportSection7b34db0f300b875c8c1b?experience=power-bi&chromeless=true",
+        "https://app.powerbi.com/links/KBSO7cV6gB?ctid=9d6555ab-db4f-4ab0-8e7e-39efc4dc6730&pbi_source=linkShare&bookmarkGuid=72476ba2-5271-4ed7-995c-cc46b5b91bb9"
     ]; // URLs permitidas
 
     // Verificar si la URL actual está en la lista de URLs permitidas
