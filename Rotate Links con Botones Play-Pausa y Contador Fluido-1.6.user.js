@@ -5,8 +5,8 @@
 // @description  Rotar enlaces con opción de pausa y reanudación mediante botones visibles, con contador de tiempo fluido.
 // @author       Tú
 // @match        *://*/*
-// @updateURL    https://raw.githubusercontent.com/lokiqui/Tablero_Presidencia/main/rotate-links.user.js
-// @downloadURL  https://raw.githubusercontent.com/lokiqui/Tablero_Presidencia/main/rotate-links.user.js
+// @updateURL    https://raw.githubusercontent.com/lokiqui/Tablero_Presidencia/main/Rotate Links con Botones Play-Pausa y Contador Fluido-1.6.user.js
+// @downloadURL  https://raw.githubusercontent.com/lokiqui/Tablero_Presidencia/main/Rotate Links con Botones Play-Pausa y Contador Fluido-1.6.user.js
 // ==/UserScript==
 (function() {
     'use strict';
