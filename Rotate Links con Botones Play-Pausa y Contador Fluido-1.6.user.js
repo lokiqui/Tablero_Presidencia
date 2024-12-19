@@ -29,7 +29,7 @@
 
     // Configuración del tiempo (modificable)
     const rotationTime = {
-        seconds: 0,
+        seconds: 20,
         minutes: 5,
         hours: 0
     };
