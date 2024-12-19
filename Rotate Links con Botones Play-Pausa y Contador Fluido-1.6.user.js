@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rotate Links con Botones Play/Pausa y Contador Fluido
 // @namespace    http://tampermonkey.net/
-// @version      1.9
+// @version      1.10
 // @description  Rotar enlaces con opción de pausa y reanudación mediante botones visibles, con contador de tiempo fluido.
 // @author       Tú
 // @match        https://app.powerbi.com/*
@@ -29,8 +29,8 @@
 
     // Configuración del tiempo (modificable)
     const rotationTime = {
-        seconds: 30,
-        minutes: 0,
+        seconds: 0,
+        minutes: 1,
         hours: 0
     };
 
