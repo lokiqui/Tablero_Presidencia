@@ -4,7 +4,7 @@
 // @version      1.6
 // @description  Rotar enlaces con opción de pausa y reanudación mediante botones visibles, con contador de tiempo fluido.
 // @author       Tú
-// @match        *://*/*
+// @match        https://app.powerbi.com/*
 // @updateURL    https://github.com/lokiqui/Tablero_Presidencia/raw/refs/heads/main/Rotate%20Links%20con%20Botones%20Play-Pausa%20y%20Contador%20Fluido-1.6.user.js
 // @downloadURL  https://github.com/lokiqui/Tablero_Presidencia/raw/refs/heads/main/Rotate%20Links%20con%20Botones%20Play-Pausa%20y%20Contador%20Fluido-1.6.user.js
 // ==/UserScript==
